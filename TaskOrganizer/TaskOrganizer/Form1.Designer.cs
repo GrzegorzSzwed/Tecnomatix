@@ -1,5 +1,19 @@
-﻿namespace TaskOrganizer
+﻿using Tecnomatix.Engineering;
+namespace TaskOrganizer
 {
+    public class Operation
+    {
+        Tecnomatix.Engineering.TxOperationRoot TxOperationRoot;
+        public Operation()
+        {
+
+
+
+
+
+
+        }
+    }
     partial class Form1
     {
         /// <summary>
